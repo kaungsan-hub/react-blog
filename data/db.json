@@ -1,0 +1,16 @@
+{
+    "blogs":[
+        {
+            "title": "Horror", 
+            "body": "blah blah blah", 
+            "author": "kaungsan", 
+            "id": 1
+        },
+        {
+            "title": "Romance", 
+            "body": "Love the way U are", 
+            "author": "ksan", 
+            "id": 2
+        }
+    ]
+}
